@@ -86,6 +86,9 @@ s = "{} {}!".format("hello","world")
 print(s)
 
 
+str.find  查找字符串中是否包含指定字串  没有返回-1
+srt.index  未找到返回错误
+
 
 
 
